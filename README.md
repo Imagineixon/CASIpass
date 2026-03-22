@@ -68,7 +68,7 @@ O sistema utiliza dados simulados, então você pode usar estas contas para test
 
 | Perfil | Email | Senha | O que testar |
 | :--- | :--- | :--- | :--- |
-| **Estudante** | `saymon@casi.ufra.br` | `123456` | Compra de ingressos, carrinho, upload de atestado, carteira digital. |
+| **Estudante** | `maria.silva@universidade.br` | `CASIPass2026` | Compra de ingressos, carrinho, upload de atestado, carteira digital. |
 | **Staff/Admin** | `admin@casi.ufra.br` | `admin123` | Validação de documentos, scanner de QR Code (requer câmera). |
 
 ---

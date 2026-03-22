@@ -109,4 +109,14 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 ---
 
+## 👥 Equipe de Desenvolvimento
+
+- **Saymon Miranda** (Diretor de Projetos CASI) — *UI/UX & Front-End*
+- **Natasha Pinho** (Diretora de Marketing CALC) — *UI/UX & Front-End*
+- **Anderson Martins** (Vice-Diretor de Projetos CASI) — *Back-End*
+- **Willian Rodrigo** (Presidente do CASI) — *Back-End*
+- **Ingrid Silva** (Ouvidoria) — *Gestão de Tarefas*
+
+---
+
 Desenvolvido para o **CASI - Centro Acadêmico de Sistemas de Informação**.

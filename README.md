@@ -120,3 +120,42 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 ---
 
 Desenvolvido para o **CASI - Centro Acadêmico de Sistemas de Informação**.
+
+## 🎲 Como Rodar Localmente
+
+Para rodar o projeto na sua máquina e testar todas as funcionalidades:
+
+### 1. Pré-requisitos
+- Node.js instalado (v18 ou superior recomendado)
+
+### 2. Passo a Passo
+
+1.  **Clone o repositório**
+    ```bash
+    git clone https://github.com/Imagineixon/CASIpass.git
+    cd CASIpass
+    ```
+
+2.  **Instale as dependências**
+    ```bash
+    npm install
+    ```
+
+3.  **Inicie o servidor local**
+    ```bash
+    npm run dev
+    ```
+
+4.  **Acesse o projeto**
+    Abra o link que aparecerá no terminal (geralmente [http://localhost:5173](http://localhost:5173)).
+
+---
+
+### 🔑 Credenciais de Teste (Mock Data)
+
+O sistema utiliza dados simulados, então você pode usar estas contas para testar os diferentes perfis:
+
+| Perfil | Email | Senha | O que testar |
+| :--- | :--- | :--- | :--- |
+| **Estudante** | `saymon@casi.ufra.br` | `123456` | Compra de ingressos, carrinho, upload de atestado, carteira digital. |
+| **Staff/Admin** | `admin@casi.ufra.br` | `admin123` | Validação de documentos, scanner de QR Code (requer câmera). |
